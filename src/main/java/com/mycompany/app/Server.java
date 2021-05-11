@@ -17,6 +17,8 @@ public class Server
        System.out.format("No %d",1);
        if ("1" == "2") {
             //dosomething
+            // does nothing
+            int abc = 1;
        }
     }
 
