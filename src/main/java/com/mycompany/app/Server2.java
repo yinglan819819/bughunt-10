@@ -20,6 +20,8 @@ public class Server2
        System.out.format("No %s",1);
        if ("1" == "2") {
             //dosomething
+            // not fixing
+            int a = 2;
        }
     }
   
