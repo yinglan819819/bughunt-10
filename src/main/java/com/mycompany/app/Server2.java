@@ -17,8 +17,8 @@ public class Server2
     private void foo(String p) {
        String s = "aloha";
        System.out.println(String.format("This is a faulty message: %i", s));
-       System.out.format("No %s",1);
-       if ("1".equal("2")) {
+       System.out.format("No %d",1);
+       if ("1".equals("2")) {
             //dosomething
             // not fixing
             int a = 2;
