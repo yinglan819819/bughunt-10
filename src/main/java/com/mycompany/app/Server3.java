@@ -18,7 +18,7 @@ public class Server3
        String s = "aloha";
        System.out.println(String.format("This is a faulty message: %i", s));
        System.out.format("No %s",1);
-       if ("1" == "2") {
+       if ("1".equals("2")) {
             //dosomething
        }
     }
